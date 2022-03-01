@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The kings majesties letter direct to the Lords of his Privie Councell of the Kingdome of Scotland</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02014</idno>
+            <idno type="STC">Wing C2386</idno>
+            <idno type="STC">ESTC R171174</idno>
+            <idno type="EEBO-CITATION">51784439</idno>
+            <idno type="OCLC">ocm 51784439</idno>
+            <idno type="VID">174858</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174858)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2703:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The kings majesties letter direct to the Lords of his Privie Councell of the Kingdome of Scotland</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by warrant and command of the Lords of His Majesties Privie Councell of Scotland, by Evan Tyler ...,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:174858:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>THE KINGS MAJESTIES LETTER Direct to the Lords of His Privie Councell of the Kingdome of SCOTLAND.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">R</seg>Ight truſty, and right welbeloved Couſins and Counſellours, and right truſty and welbeloved Counſellours, Wee greet you well. We have lately ſeen a Paper, preſented to Us by the Earle of <hi>Lindſay,</hi> as a Declaration of the Lords and Commons, aſſembled in the Parliament of <hi>England,</hi> of the ſeventh of November, to Our Subjects of the Kingdome of <hi>Scotland,</hi> which after many high taxes of Us, and Our Government, very earneſtly invites, and in a manner challenges aſſiſtance from that Our native Kingdome, of Men and Arms, for making a War againſt Us, making a claim to that aſſiſtance, by vertue of the late Act of Pacification; to the which (out of Our deſire to make a perpetuall Union between Our two Kingdomes, for the happineſſe of both, and by it the more firmely to eſtabliſh Our own Greatneſſe and juſt Power) We cheerfully conſented. As Wee are at Our ſoul afflicted, that it hath been in the power of any factious, ambitious, and malicious perſons, ſo far to poſſeſſe the hearts of many of Our Subjects of <hi>England,</hi> as to raiſe this miſe<g ref="char:EOLhyphen"/>rable diſtemper, and diſtraction in this Kingdome, againſt all Our reall actions and endeavours to the contrary: So Wee are glad that this rage and fury hath ſo far tranſported them, that they ap<g ref="char:EOLhyphen"/>ply themſelves in ſo groſſe a manner to Our good Subjects of <hi>Scotland,</hi> whoſe experience of Our Religion, Juſtice, and Love <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> People, will not ſuffer them to beleeve thoſe horrible ſcandals layd upon Us: And their Affection, Loyaltie, and Jealouſie of Our Honour, will diſdain to be made Inſtruments to oppreſſe their native Soveraigne, by aſſiſting an odious Rebellion. We have from time to time acquainted Our Subjects of that Kingdome, with the Accidents and Circumſtances which have diſquieted this: How (after all the Acts of Juſtice, Grace, and Favour performed on Our part, which were or could be deſired to make a People completely happie) Wee were driven by the force and violence of rude and tumultuous Aſſemblies from Our Citie of <hi>London,</hi> and Our Houſes of Parlia<g ref="char:EOLhyphen"/>ment: How attempts have been made to impoſe Laws upon Our Subjects without Our conſent, contrary to the Foundation and Conſtitution of this Kingdome: How Our Forts, Goods, and Navie were ſeized, taken from Us by force, and employed againſt Us; Our Revenue and ordinary Subſiſtence wreſted from Us: How We have been purſued with ſcandalous and reproachfull lan<g ref="char:EOLhyphen"/>guage; bold, falſe, and ſeditous Paſquils, and Libels, publickly allowed againſt Us; and been told, That We might without want of mo<g ref="char:EOLhyphen"/>deſtie and dutie be depoſed: How after all this (before any Force raiſed by Us) an Army was raiſed, and a Generall appointed to lead that Army againſt Us, wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Commiſſion to kill, ſlay, and deſtroy all ſuch who ſhould be faithfull to Us; that when Wee had been by thoſe means compelled with the aſſiſtance of Our good Subjects, to raiſe an Army for our neceſſary defence, Wee ſent diverſe gracious Meſſages, earneſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y deſiring that the Calamities and Miſeries of a Civill Warre, might be prevented by a Treatie, and ſo Wee might know the grounds of this miſ-underſtanding: How We were abſolutely refuſed to be treated with; And how at laſt the Ar<g ref="char:EOLhyphen"/>my (raiſed as was pretend<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for defence of Our Perſon) was brought into the Field againſt Us, gave Us battell, And (though it pleaſed God to give Us the victory) deſtroyed many of Our good Subjects, with als imminent danger to Our own Perſon, and Our children, as the skill and malice of d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſperate Rebels could contrive. Of all which, and the other indignities which have been offered Us, We <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>bt not the dutie and affection of Our <hi>Scots</hi> Subjects will have ſo juſt a refentment, that they will expreſſe to the world the ſenſe they h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Our ſufferings. And Our good Subjects of <hi>Scotland</hi> are not (We hope) ſo great ſtrangers to the affairs of this Kingdome, to beleeve that this miſ-fortune and diſtraction is begot and brought upon Us by Our two Houſes of Parliament (though in truth no unwarran<g ref="char:EOLhyphen"/>table Action againſt the Law can be juſtified even by that Authoritie) they well know how the members of both Houſes have been driven thence; inſomuch that of above five hundred members of the Houſe of Commons, there are not now there above fourſcore, and of above an hundred of the Houſe of Peers, not above fifteen or ſixteen: All which are ſo awed by the multitude of Anabaptiſts, Browniſts, and other Per<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons deſperate and decayed in their fortunes, in and about the Citie of <hi>London,</hi> that in truth their conſulta<g ref="char:EOLhyphen"/>tions have not the Freedome and Priviledge which belong to Parliaments. Concerning any Commiſſions granted by Us to Papiſts to raiſe Forces. We referre our good Subjects to a Declaration lately ſet forth by Us upon occaſion of that Scandall, which We ſend
+<pb facs="tcp:174858:2"/>
+               <!-- PDF PAGE 14 -->
+together with this. And for Our Own true and zealous Affection to the Proteſtant Religion (the advancement whereof Our Soule deſires) We can give no other inſtances then Our conſtant Practice, on which malice it ſelf can lay no blemiſh. And thoſe many Proteſtations We have made in the ſight of almighty GOD, to whom We know We ſhall be dearly accomptable i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> We fail in the obſervation. For that ſcandalous imputation of Our intention of bringing in of Forrain Forces, as the ſame is <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>iſed without the leaſt colour <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſhadow of reaſon, and ſolemnlie diſ-avowed by Us, in many of Our Declarations; ſo there cannot be a clearer argument to Our Subjects of <hi>Scotland,</hi> that We have no ſuch thought, then that We have hitherto forborn to requi<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Aſſiſtance of that Our Ntive Kingdome, from whoſe obedience, duty and affection We ſhould confidently expect it, if We thought Our Own ſtrength here t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o weak to preſerve Us, and of whoſe courage and loyaltie We ſhall look to make uſe, before We ſhall think of any Forrain Aid <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſuccour Us. And We know no reaſonable nor underſtanding man can ſuppoſe our good Subjects of <hi>Scotland</hi> are obliged or e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abled by the late Act of Parliament in both Kingdomes, to obey the invitation which is made to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m by this pretended Declarati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, when it is ſo evidently provided for by that Act, That as the Kingdome of <hi>England</hi> ſhall not make Warre againſt the Kingd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of <hi>Scotland,</hi> without the conſent of the Parliament of <hi>England,</hi> ſo that the Kingdome of <hi>Scotland</hi> ſhall not make Warre againſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Kingdome of <hi>England</hi> without conſent of the Parliament of <hi>Scotland,</hi> And when they have alwayes decla<g ref="char:EOLhyphen"/>red themſelves ſo careful of Our Honour, Safety, and juſt Rights, which now undergo ſuch great violation. This We have thought fit to ſay upon occaſion o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this late Declaration, and doe recommend it to you the Lords of Our Privie Councell of Our Kingdome of <hi>Scotland,</hi> To be communicated and publiſhed to all Our loving Subjects there. And if the grave Councell and Advice which you derived hither, by your <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct of the 22 of <hi>April</hi> laſt, had been followed here in a tenderneſſe of Our Royall Perſon, and of Our Princely Greatneſſe, and Authority, then would not this face of Confuſion have appeared, which now threatens this Kingdome. And therefore We requi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you to uſe your utmoſt endeavours, to informe Our Subjects of that Our Kingdome of the truth of Our condition, and that yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuffer not the Scandals and Imputations layd on Us by the Malice and Treaſon of ſome men, to ma<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> any impreſſion in the minds o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our People, to the leſſening or corrupting their affection and loyaltie to Us, But that you aſſure them the Hardneſſe We now unde<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>go, and the Arms We have been compelled to take up, are for the defence of Our Perſon, and ſafety of Our Life, for the mainte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance of the true Proteſtant Religion, for the preſervation of the Laws, Liberties and Conſtitution of this Kingdome, and for the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt Priviledges of Parliament. And We look no longer for the bleſſing of heaven, then We endeavour the defence, and advanceme<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of all theſe. And We doubt not a dutifull concurrence in Our Subjects; of <hi>Scotland</hi> in the care of Our Honour and juſt Rights, will draw down a bleſſing on that Nation too.</p>
+            <closer>
+               <dateline>Given at Our Court <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <hi>Oxford</hi> 
+                  <date>the fifth day of <hi>December,</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed by Warrant and Command of the Lords of His Majeſties Privie Councell</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Scotland, By <hi>EVAN TYLER,</hi> Printer to the Kings moſt Excellent Majeſtie, 1642.</p>
+            <pb facs="tcp:174858:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+         </div>
+      </back>
+   </text>
+</TEI>
